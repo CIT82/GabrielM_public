@@ -23,16 +23,13 @@ ___
 
 ## Evening
 
-- Feed:
-        1. Jon (Chihuahua)
-        2. Francis (Chihuahua)
-        3. Olives (Cat)
-        4. Augie morning (Cat)
-        5. Josephine (Gold Fishing)
-        6. Gary I (Frog)
-        7. Blackie (Snail)
-
+- Feed the dogs
 - Make and eat dinner
 - Hang out with roommates
 - Watch YouTube
 - Talk with family and friends
+ht="10px" width="10px"}
+
+### Disclosure
+I was supervised by the creature bellow.
+![Augie](https://bit.ly/3qigGTU )
