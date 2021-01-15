@@ -24,18 +24,14 @@ ___
 ## Evening
 
 - Feed:
-      1. Jon (Chihuahua)
-      2. Francis (Chihuahua)
-      3. Olives (Cat)
-      4. Augie morning (Cat)
-      5. Josephine (Gold Fishing)
-      6. Gary I (Frog)
-      7. Blackie (Snail)
+ 1. Jon (Chihuahua)
+ 2. Francis (Chihuahua)
+ 3. Olives (Cat)
+ 4. Augie morning (Cat)
+ 5. Josephine (Gold Fishing)
+ 6. Gary I (Frog)
+ 7. Blackie (Snail)
 
-
-
-1. Hello
-2. Gabriel
 - Make and eat dinner
 - Hang out with roommates
 - Watch YouTube
