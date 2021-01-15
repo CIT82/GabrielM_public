@@ -31,7 +31,11 @@ ___
       5. Josephine (Gold Fishing)
       6. Gary I (Frog)
       7. Blackie (Snail)
- 
+
+
+
+1. Hello
+2. Gabriel
 - Make and eat dinner
 - Hang out with roommates
 - Watch YouTube
