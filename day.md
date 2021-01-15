@@ -28,8 +28,8 @@ ___
 - Hang out with roommates
 - Watch YouTube
 - Talk with family and friends
-ht="10px" width="10px"}
+
 
 ### Disclosure
 I was supervised by the creature bellow.
-![Augie](https://bit.ly/3qigGTU )
+![Augie the terrible](https://bit.ly/3qigGTU )
